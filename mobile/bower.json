@@ -1,0 +1,23 @@
+{
+  "name": "com.apeint.calligraphy",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "authors": [
+    "Apache Cordova Team"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/laboratoryyingong/apeint-calligraphy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "hanzi-writer": "https://github.com/chanind/hanzi-writer.git#^1.2.1",
+    "hanzi-writer-data": "https://github.com/chanind/hanzi-writer-data.git#^2.0.1",
+    "jquery": "^3.3.1",
+    "izimodal": "https://github.com/dolce/iziModal.git#^1.5.1"
+  }
+}
